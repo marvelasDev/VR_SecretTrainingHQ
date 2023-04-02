@@ -6,4 +6,4 @@ Notes:
 "Avengers Logo" (https://skfb.ly/6TPDu) by DavidOrdonez is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 Disclaimer:
-For skill demonstration purposes only. I am not the original owner of these IPs, nor do I generate any revenue from these unlisted videos. Projects shown are being used solely for the purpose of obtaining employment.
+For skill demonstration purposes only. I am not the original owner of these IPs, nor do I generate any revenue from these demos. Projects shown are being used solely for the purpose of obtaining employment.
