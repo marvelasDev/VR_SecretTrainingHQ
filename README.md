@@ -1,4 +1,4 @@
-# VR_SecretTrainingHQ (Unity VR - Designed for Quest 2 headset)
+# Secret Training Compound (Unity VR - Quest 2 headset)
 
 https://user-images.githubusercontent.com/93958908/229369277-f1837442-75d0-488d-9480-cd341ad803ea.mp4
 
