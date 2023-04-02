@@ -2,7 +2,10 @@
 
 Agent Hawkeye is a bit rusty from all that time on the family ranch. Pick up your bow and practice your archery skills at the secret Avengers Training Facility!
 
+TO INSTALL ON OCULUS/QUEST 2:
+
 Notes:
+&nbsp;
 "Avengers Logo" (https://skfb.ly/6TPDu) by DavidOrdonez is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 Disclaimer:
